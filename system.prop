@@ -1,0 +1,8 @@
+ro.product.brand=xiaomi
+ro.product.name=jason
+ro.product.device=jason
+ro.product.mod_device=jason_global
+ro.build.product=jason
+sys.usb.controller=a800000.dwc3
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
